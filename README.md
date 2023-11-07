@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaswanth7-git
 - 👀 I’m interested in software development
-- 🌱 I’m currently practicing problem solving
+- 🌱 I’m currently working at Bajajfinserv as a Full Stack AEM Developer
 - 📫 How to reach me jaswanthchowdary0707@gmail.com
 - https://jaswanth7-git.github.io/
 <!---
